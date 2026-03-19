@@ -4,6 +4,10 @@ A high-performance, tool-augmented AI agent built using **LangGraph** and **Lang
 
 ---
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://huggingface.co/spaces/DJhugsu/Research_Agent)
+
+---
+
 ## 🌟 Project Overview
 
 The **GAIA Research Agent** tackles "hidden" reasoning problems that require more than just internal model knowledge. It follows a structured protocol: analyze the question, determine if external tools (Search, arXiv, Math) are needed, execute the research, and synthesize a precise response.
