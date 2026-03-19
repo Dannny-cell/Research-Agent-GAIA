@@ -49,12 +49,3 @@ The system is built as a stateful **LangGraph** workflow with the following node
 | `app.py` | Gradio UI for running the evaluation suite and scoring. |
 | `System_prompt.txt` | Custom system prompt defining the agent's persona. |
 | `requirements.txt` | Python dependencies. |
-
----
-
-## 🛠️ Setup & Installation
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/GAIA-Research-Agent.git](https://github.com/your-username/GAIA-Research-Agent.git)
-cd GAIA-Research-Agent
